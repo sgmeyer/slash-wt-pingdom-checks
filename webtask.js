@@ -1,5 +1,5 @@
 /**
- * This /wt is used to return the the check information from pingdom for all the managed appliances.
+ * This /wt is used to return the the check information from pingdom for all the monitored services.
  *
  * Basic Usage:
  * /wt pingdom-checks => returns all of the monitored appliances
