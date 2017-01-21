@@ -1,6 +1,6 @@
 # Slash Webtask for Pingdom Checks
 
-If you are monitoring your websites using Pingdom and you also spend a decent in Slack this you can [install Slash Webtask](https://webtask.io/slack) and get up and running easily.  
+Let Slash Webtask augment your workflows by bringing simple monitoring status to your Slack channel using Pingdom's Checks API.
 
 ## Installation
 
