@@ -25,6 +25,6 @@ Note: Pingdom uses basic authentication for its API.  This means you'll need to 
 
 Hit save one more time.  Now go back to Slack and try it out.  `/wt pingdom-checks`.
 
-## Letting Other Users Use You Slack Webtask
+## Letting Other Users Use Your Slash Webtask
 
 Creating meaningful Slash Webtasks is easy and fun.  To allow anyone in your organization to run your code run this in a DM `/wt acl add user pingdom-checks *` and that is it.  You are making sweet monitoring magic.
